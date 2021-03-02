@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/web-inverter/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/web-inverter/static/js/main.9e5c56e3.chunk.js",
-    "main.js.map": "/web-inverter/static/js/main.9e5c56e3.chunk.js.map",
+    "main.js": "/web-inverter/static/js/main.51ac9ada.chunk.js",
+    "main.js.map": "/web-inverter/static/js/main.51ac9ada.chunk.js.map",
     "runtime-main.js": "/web-inverter/static/js/runtime-main.0cea3198.js",
     "runtime-main.js.map": "/web-inverter/static/js/runtime-main.0cea3198.js.map",
-    "static/js/2.3be2cc17.chunk.js": "/web-inverter/static/js/2.3be2cc17.chunk.js",
-    "static/js/2.3be2cc17.chunk.js.map": "/web-inverter/static/js/2.3be2cc17.chunk.js.map",
+    "static/js/2.b59b2888.chunk.js": "/web-inverter/static/js/2.b59b2888.chunk.js",
+    "static/js/2.b59b2888.chunk.js.map": "/web-inverter/static/js/2.b59b2888.chunk.js.map",
     "static/js/3.2c6adae5.chunk.js": "/web-inverter/static/js/3.2c6adae5.chunk.js",
     "static/js/3.2c6adae5.chunk.js.map": "/web-inverter/static/js/3.2c6adae5.chunk.js.map",
     "index.html": "/web-inverter/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/web-inverter/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.3be2cc17.chunk.js.LICENSE.txt": "/web-inverter/static/js/2.3be2cc17.chunk.js.LICENSE.txt",
+    "static/js/2.b59b2888.chunk.js.LICENSE.txt": "/web-inverter/static/js/2.b59b2888.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/web-inverter/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0cea3198.js",
-    "static/js/2.3be2cc17.chunk.js",
+    "static/js/2.b59b2888.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.9e5c56e3.chunk.js"
+    "static/js/main.51ac9ada.chunk.js"
   ]
 }
